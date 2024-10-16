@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="MySQLDAO-main/src"/>
+	<classpathentry kind="lib" path="MySQLDAO-main/lib/commons-lang3-3.17.0.jar"/>
+	<classpathentry kind="lib" path="MySQLDAO-main/lib/javafaker-1.0.2.jar"/>
+	<classpathentry kind="lib" path="MySQLDAO-main/lib/mysql-connector-java-8.0.29.jar"/>
+	<classpathentry kind="lib" path="MySQLDAO-main/lib/snakeyaml-2.0.jar"/>
+	<classpathentry kind="output" path="MySQLDAO-main/bin"/>
+</classpath>
